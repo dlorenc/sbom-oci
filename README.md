@@ -11,7 +11,7 @@
 
 ### Introduction:
 
-The SBOM (Source Code Bill Of Materials) Artifact Image Specification defines how to bundle SBOMs as OCI images.
+The SBOM (Software Bill Of Materials) Artifact Image Specification defines how to bundle SBOMs as OCI images.
 SBOM Artifact Images consist of one or more SBOM files, with annotations to indicate which other OCI artifacts, or parts of OCI artifacts, they are intended to cover.
 
 The spec is intended to be generic, allowing for any type of SBOM file, whether it is intended to refer to an OCI image or another type of artifact.
